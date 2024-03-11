@@ -1,0 +1,11 @@
+
+.header {
+  height: 50px;
+  background: white;
+  box-shadow: 0 2px 8px #f2f3f5;
+}
+.container_box {
+  max-width: 1200px;
+  margin: 20px auto;
+  display: flex;
+}
